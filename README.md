@@ -1,2 +1,4 @@
-# AndroidInfomation
-工作与学习中总结的Andorid知识点
+# AndridInfomation
+### 基础
+### 自定义View
+### 封装工具类

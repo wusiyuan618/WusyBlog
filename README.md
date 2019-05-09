@@ -1,9 +1,8 @@
 > 这是一个关于Android工作与学习中的知识和BUG总结。文章多数来自自笔者的个人简书。为自己复习也为大家分享，希望能给各位提供帮助。star一下谢谢支持
 
 # 基础
-[Android知识点基础篇（一）](https://www.jianshu.com/p/d70205b654e1)
-
-[Android知识点基础篇（二）](https://www.jianshu.com/p/5818b9caf118)
+[Android知识点基础篇（一）](https://www.jianshu.com/p/d70205b654e1) 
+[Android知识点基础篇（二）](https://www.jianshu.com/p/5818b9caf118) 
 [设计模式学习——代理模式（Proxy Pattern）](https://www.jianshu.com/p/16a8a31e5273)
 [这次彻底搞懂Android补间动画](https://www.jianshu.com/p/3a5cc3a617ac)
 [Andriod RX+Retrofit基础学习并简单封装](https://www.jianshu.com/p/94fd8e85cc2c)

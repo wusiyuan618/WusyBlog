@@ -2,6 +2,7 @@
 
 # 基础
 [Android知识点基础篇（一）](https://www.jianshu.com/p/d70205b654e1)
+
 [Android知识点基础篇（二）](https://www.jianshu.com/p/5818b9caf118)
 [设计模式学习——代理模式（Proxy Pattern）](https://www.jianshu.com/p/16a8a31e5273)
 [这次彻底搞懂Android补间动画](https://www.jianshu.com/p/3a5cc3a617ac)

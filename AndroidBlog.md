@@ -49,7 +49,7 @@
 
 [自定义View学习之路（一）————自定义xml字段](https://www.jianshu.com/p/34626a839c38)
 
-[more](https://github.com/wusiyuan618/wusyLibrary/tree/master/wusylibrary/src/main/java/com/wusy/wusylibrary/view)
+[更多自定义的View](https://github.com/wusiyuan618/wusyLibrary/tree/master/wusylibrary/src/main/java/com/wusy/wusylibrary/view)
 
 # 封装工具类
 [助你快速搭建一个健壮可控的WebApp](https://www.jianshu.com/p/0d3c1beea0b2)  
@@ -60,7 +60,7 @@
 
 [自己封装的各种Base类](https://github.com/wusiyuan618/wusyLibrary/tree/master/wusylibrary/src/main/java/com/wusy/wusylibrary/base)
 
-[more](https://github.com/wusiyuan618/wusyLibrary/tree/master/wusylibrary/src/main/java/com/wusy/wusylibrary/util)
+[更多封装工具类](https://github.com/wusiyuan618/wusyLibrary/tree/master/wusylibrary/src/main/java/com/wusy/wusylibrary/util)
 
 
 # ADB相关

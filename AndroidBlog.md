@@ -1,4 +1,4 @@
-> 这是一个关于Android工作与学习中的知识和BUG总结。
+> 这是一个关于Android工作与学习中的知识和BUG总结,以及自己的一些心得文章
 
 # 基础
 [Android知识点基础篇（一）](https://www.jianshu.com/p/d70205b654e1)  
@@ -19,6 +19,7 @@
 
 [搭建一个MVP框架](https://www.jianshu.com/p/ec30f069d1e6)  
 
+[通过apktool反编译APK](https://www.jianshu.com/p/2243c3d9a08c)
 
 # 自定义View
 [Android自定义View--数字软键盘](https://www.jianshu.com/p/588b5bd3f665)  
@@ -31,10 +32,30 @@
 
 [Android自定义View——手写签批](https://www.jianshu.com/p/881c9b1aa55f)  
 
+[自定义组件——BottomSelectView](https://www.jianshu.com/p/b5d93043f1f7)
+
+[自定义组件——TitleView](https://www.jianshu.com/p/1e9f22f4e0a0)
+
+[自定义组件——ModuleView](https://www.jianshu.com/p/61575afcd8c1)
+
+[自定义View学习之路（五）————彩虹环](https://www.jianshu.com/p/057b62ea0699)
+
+[自定义View学习之路（四）————图片介绍框](https://www.jianshu.com/p/d15d317d815d)
+
+[自定义View学习之路（三）————验证码的实现](https://www.jianshu.com/p/bfd61b0bd730)
+
+[自定义View学习之路（二）————Paint与Canvas](https://www.jianshu.com/p/f11180fa28b8)
+
+[自定义View学习之路（一）————自定义xml字段](https://www.jianshu.com/p/34626a839c38)
+
 # 封装工具类
 [助你快速搭建一个健壮可控的WebApp](https://www.jianshu.com/p/0d3c1beea0b2)  
 [popupWindow的封装与学习](https://www.jianshu.com/p/4e01b8689ec4)  
 [构建BaseRecyclerAdapter，RecyclerView其实很简单](https://www.jianshu.com/p/f1890478df51)  
+
+# ADB相关
+[Android ADB 打开 Lanucher首页](https://www.jianshu.com/p/454dd340ba9e)  
+[ADB命令](https://www.jianshu.com/p/56ad198ac814)
 
 # BUG采坑
 [Android OkHttp3处理重定向](https://www.jianshu.com/p/8e8e30dc84e5)  
@@ -53,10 +74,17 @@
 
 [Webview与H5交互——支持Intput type=”file“属性](https://www.jianshu.com/p/3443e9725f5a)  
 
+[Android 8.0无法发送通知栏？通知栏适配通知渠道](https://www.jianshu.com/p/2ac54bcd9db4)
 
-# ADB相关
-[Android ADB 打开 Lanucher首页](https://www.jianshu.com/p/454dd340ba9e)  
+[解决运动单例造成Fragment状态被保留的问题](https://www.jianshu.com/p/0dca6d6de208)
 
+[解决设置控件Alpha透明引发的问题](https://www.jianshu.com/p/4d89fe683664)
+
+[解决Recyclerview列表中使用CheckBox导致下滑时选中状态混乱](https://www.jianshu.com/p/6771405c6c33)
+
+[解决横竖屏切换导致自定义View切换Fragment失败](https://www.jianshu.com/p/26c3f3089825)
+
+[Android7.0以上版本打开附件失败问题](https://www.jianshu.com/p/32ca5a08e185)
 
 # 第三方SDK对接
 [常用第三方SDK各平台优劣对比](https://www.jianshu.com/p/881fff5179ed)  
@@ -81,9 +109,17 @@
 
 [Android原生与H5通信](https://www.jianshu.com/p/9345d3550e7e)  
 
+[Android语音录制，语音发送](https://www.jianshu.com/p/510c0aba0051)
+
+[沉浸式状态栏的封装使用](https://www.jianshu.com/p/80d673028e84)
+
+[EditText与仿钉钉的搜索功能](https://www.jianshu.com/p/3f503582f7b1)
+
+[Android智能刷新加载框架-SmartRefreshLayout](https://www.jianshu.com/p/856a47bc82ed)
 
 # AndroidStudio配置
 [在AndroidStudio上搭建SVN](https://www.jianshu.com/p/c6422d8dfc06)  
+
 
 # 项目
 > [WusyProject](https://github.com/wusiyuan618/wusyLibrary)  

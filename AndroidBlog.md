@@ -19,7 +19,8 @@
 
 [搭建一个MVP框架](https://www.jianshu.com/p/ec30f069d1e6)  
 
-[通过apktool反编译APK](https://www.jianshu.com/p/2243c3d9a08c)
+[通过apktool反编译APK](https://www.jianshu.com/p/2243c3d9a08c) 
+
 
 # 自定义View
 [Android自定义View--数字软键盘](https://www.jianshu.com/p/588b5bd3f665)  
@@ -48,12 +49,19 @@
 
 [自定义View学习之路（一）————自定义xml字段](https://www.jianshu.com/p/34626a839c38)
 
+[more](https://github.com/wusiyuan618/wusyLibrary/tree/master/wusylibrary/src/main/java/com/wusy/wusylibrary/view)
+
 # 封装工具类
 [助你快速搭建一个健壮可控的WebApp](https://www.jianshu.com/p/0d3c1beea0b2)  
 
 [popupWindow的封装与学习](https://www.jianshu.com/p/4e01b8689ec4)  
 
 [构建BaseRecyclerAdapter，RecyclerView其实很简单](https://www.jianshu.com/p/f1890478df51)  
+
+[自己封装的各种Base类](https://github.com/wusiyuan618/wusyLibrary/tree/master/wusylibrary/src/main/java/com/wusy/wusylibrary/base)
+
+[more](https://github.com/wusiyuan618/wusyLibrary/tree/master/wusylibrary/src/main/java/com/wusy/wusylibrary/util)
+
 
 # ADB相关
 [Android ADB 打开 Lanucher首页](https://www.jianshu.com/p/454dd340ba9e)  

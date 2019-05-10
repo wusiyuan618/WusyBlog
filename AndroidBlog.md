@@ -50,11 +50,14 @@
 
 # 封装工具类
 [助你快速搭建一个健壮可控的WebApp](https://www.jianshu.com/p/0d3c1beea0b2)  
+
 [popupWindow的封装与学习](https://www.jianshu.com/p/4e01b8689ec4)  
+
 [构建BaseRecyclerAdapter，RecyclerView其实很简单](https://www.jianshu.com/p/f1890478df51)  
 
 # ADB相关
 [Android ADB 打开 Lanucher首页](https://www.jianshu.com/p/454dd340ba9e)  
+
 [ADB命令](https://www.jianshu.com/p/56ad198ac814)
 
 # BUG采坑

@@ -3,4 +3,8 @@
 
 个人简书：https://www.jianshu.com/u/0c89334904b9  
 
+AndroidBolg: https://github.com/wusiyuan618/DevelopmentBlog/blob/master/AndroidBlog.md
+
+H5Bolg:https://github.com/wusiyuan618/DevelopmentBlog/blob/master/H5Blog.md
+
 Android library：https://github.com/wusiyuan618/wusyLibrary

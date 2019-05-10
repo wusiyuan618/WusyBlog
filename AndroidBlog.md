@@ -85,3 +85,6 @@
 # AndroidStudio配置
 [在AndroidStudio上搭建SVN](https://www.jianshu.com/p/c6422d8dfc06)  
 
+# 项目
+[WusyProject](https://github.com/wusiyuan618/wusyLibrary) ———— 利用wusyLibrary快速搭建的项目。平时用于个人测试和学习新东西使用
+

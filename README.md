@@ -8,4 +8,4 @@
 
 [H5Bolg](https://github.com/wusiyuan618/DevelopmentBlog/blob/master/H5Blog.md)
 
-[Android library](https://github.com/wusiyuan618/wusyLibrary)
+[Android wusyLibrary](https://github.com/wusiyuan618/wusyLibrary)

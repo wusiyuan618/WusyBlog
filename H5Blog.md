@@ -21,3 +21,6 @@
 [LayaAir引擎学习经历](https://www.jianshu.com/p/5a022e111292)
 
 [解决浏览器差异导致从子页面回到父页面，父页面不刷新的问题](https://www.jianshu.com/p/58bc39a256e8)
+
+# 项目
+[自走棋真香](https://github.com/wusiyuan618/ZZQInfo)

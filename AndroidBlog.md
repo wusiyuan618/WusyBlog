@@ -100,6 +100,8 @@
 # 第三方SDK对接
 [常用第三方SDK各平台优劣对比](https://www.jianshu.com/p/881fff5179ed)  
 
+[你一定会遇到的Android接入融云音视频SDK采坑记录]（https://www.jianshu.com/p/0caca1434d3a）
+
 
 # 功能实现
 [Android 简单计时器实现](https://www.jianshu.com/p/175dabacb06e)  

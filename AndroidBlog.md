@@ -136,6 +136,6 @@
 > [WusyProject](https://github.com/wusiyuan618/wusyLibrary)  
 利用wusyLibrary快速搭建的项目。平时用于个人测试和学习新东西使用
 
->[RongYunProject](https://github.com/wusiyuan618/RongYunProject)
+>[RongYunProject](https://github.com/wusiyuan618/RongYunProject)  
 这是一个Android 接入融云的测试项目，基于融云SDK和WusyLibrary用Kotlin编写
 

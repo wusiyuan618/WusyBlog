@@ -142,6 +142,6 @@
 这是一个Android 接入融云的测试项目，基于融云SDK和WusyLibrary用Kotlin编写
 
 >[YodarConnect](https://github.com/wusiyuan618/YoDarConnect)  
-这是一个Android 实现Yodar遥控器的项目，基于融云SDK和WusyLibrary用Kotlin编写。
+这是一个Android 实现Yodar遥控器的项目，基于融云SDK和WusyLibrary用Kotlin编写。  
 [Android UDP协议，实现Yodar遥控器](https://www.jianshu.com/p/c5dc54a7c864)
 

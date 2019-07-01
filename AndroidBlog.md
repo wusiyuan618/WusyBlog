@@ -102,6 +102,8 @@
 
 [你一定会遇到的Android接入融云音视频SDK采坑记录](https://www.jianshu.com/p/0caca1434d3a)
 
+# Kotlin
+转载——[kotlin 常见 关键词](https://www.jianshu.com/p/2b26ebaa4c71)  
 
 # 功能实现
 [Android 简单计时器实现](https://www.jianshu.com/p/175dabacb06e)  

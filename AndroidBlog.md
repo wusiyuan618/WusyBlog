@@ -68,7 +68,9 @@
 
 [Android ADB 打开 Lanucher首页](https://www.jianshu.com/p/454dd340ba9e)  
 
-[ADB命令](https://www.jianshu.com/p/56ad198ac814)
+[ADB命令](https://www.jianshu.com/p/56ad198ac814)  
+
+[ADB远程调试(转载)](https://www.jianshu.com/p/9fe9ed396582)  
 
 # BUG采坑
 [Android OkHttp3处理重定向](https://www.jianshu.com/p/8e8e30dc84e5)  

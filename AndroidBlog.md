@@ -149,3 +149,6 @@
 这是一个Android 实现Yodar遥控器的项目，基于融云SDK和WusyLibrary用Kotlin编写。  
 [Android UDP协议，实现Yodar遥控器](https://www.jianshu.com/p/c5dc54a7c864)
 
+>[EasyPermissions(转载)](https://github.com/Ficat/EasyPermissions)  
+一个及其简洁的安卓runtime权限库
+

@@ -64,6 +64,8 @@
 
 
 # ADB相关
+[ADB环境变量配置](https://jingyan.baidu.com/article/17bd8e52f514d985ab2bb800.html)  
+
 [Android ADB 打开 Lanucher首页](https://www.jianshu.com/p/454dd340ba9e)  
 
 [ADB命令](https://www.jianshu.com/p/56ad198ac814)

@@ -64,7 +64,7 @@
 
 
 # ADB相关
-[ADB环境变量配置](https://jingyan.baidu.com/article/17bd8e52f514d985ab2bb800.html)  
+[ADB环境变量配置(转载)](https://jingyan.baidu.com/article/17bd8e52f514d985ab2bb800.html)  
 
 [Android ADB 打开 Lanucher首页](https://www.jianshu.com/p/454dd340ba9e)  
 
@@ -105,7 +105,7 @@
 [你一定会遇到的Android接入融云音视频SDK采坑记录](https://www.jianshu.com/p/0caca1434d3a)
 
 # Kotlin
-[kotlin 常见 关键词](https://www.jianshu.com/p/2b26ebaa4c71) —— 转载  
+[kotlin 常见 关键词（转载）](https://www.jianshu.com/p/2b26ebaa4c71)
 
 # 功能实现
 [Android 简单计时器实现](https://www.jianshu.com/p/175dabacb06e)  

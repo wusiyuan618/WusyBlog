@@ -136,6 +136,9 @@
 
 [Android智能刷新加载框架-SmartRefreshLayout](https://www.jianshu.com/p/856a47bc82ed)
 
+[Android 拓展Logger细节分享](https://www.jianshu.com/p/4fe9f8ccd4c0)
+
+
 # AndroidStudio配置
 [在AndroidStudio上搭建SVN](https://www.jianshu.com/p/c6422d8dfc06)  
 
@@ -149,7 +152,6 @@
 
 >[YodarConnect](https://github.com/wusiyuan618/YoDarConnect)  
 这是一个Android 实现Yodar遥控器的项目，基于融云SDK和WusyLibrary用Kotlin编写。  
-[Android UDP协议，实现Yodar遥控器](https://www.jianshu.com/p/c5dc54a7c864)
 
 >[EasyPermissions(转载)](https://github.com/Ficat/EasyPermissions)  
 一个及其简洁的安卓runtime权限库

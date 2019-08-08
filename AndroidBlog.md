@@ -138,6 +138,8 @@
 
 [Android 拓展Logger细节分享](https://www.jianshu.com/p/4fe9f8ccd4c0)
 
+[Android让我们的应用取代launcher应用(引用)](https://blog.csdn.net/ziyexiuxiu/article/details/79651541)
+
 
 # AndroidStudio配置
 [在AndroidStudio上搭建SVN](https://www.jianshu.com/p/c6422d8dfc06)  

@@ -110,6 +110,8 @@
 [kotlin 常见 关键词（转载）](https://www.jianshu.com/p/2b26ebaa4c71)
 
 # 功能实现
+[助你快速搭建一个健壮可控的WebApp](https://www.jianshu.com/p/0d3c1beea0b2)  
+
 [Android 简单计时器实现](https://www.jianshu.com/p/175dabacb06e)  
 
 [Andorid pcm转码wav](https://www.jianshu.com/p/888b8fc6f34f)  

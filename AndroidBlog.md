@@ -114,7 +114,9 @@
 [你一定会遇到的Android接入融云音视频SDK采坑记录](https://www.jianshu.com/p/0caca1434d3a)
 
 # Kotlin
-[kotlin 常见 关键词（转载）](https://www.jianshu.com/p/2b26ebaa4c71)
+[kotlin 常见 关键词（转载）](https://www.jianshu.com/p/2b26ebaa4c71)  
+
+[Kotlin系列之let、with、run、apply、also函数的使用（转载）](https://blog.csdn.net/u013064109/article/details/78786646)  
 
 # 功能实现
 [助你快速搭建一个健壮可控的WebApp](https://www.jianshu.com/p/0d3c1beea0b2)  

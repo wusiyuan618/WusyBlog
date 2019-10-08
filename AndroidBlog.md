@@ -21,6 +21,7 @@
 
 [通过apktool反编译APK](https://www.jianshu.com/p/2243c3d9a08c) 
 
+[Android 利用泛型优雅的解析数据](https://www.jianshu.com/p/4cb77e97eea6) 
 
 # 自定义View
 [Android自定义View--数字软键盘](https://www.jianshu.com/p/588b5bd3f665)  

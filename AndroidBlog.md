@@ -58,10 +58,9 @@
 
 [构建BaseRecyclerAdapter，RecyclerView其实很简单](https://www.jianshu.com/p/f1890478df51)  
 
-[自己封装的各种Base类](https://github.com/wusiyuan618/wusyLibrary/tree/master/wusylibrary/src/main/java/com/wusy/wusylibrary/base)
+[SystemTTS系统自带的语音转文字](https://www.jianshu.com/p/79f8d043810e)  
 
-[SystemTTS系统自带的语音转文字]
-（https://www.jianshu.com/p/79f8d043810e）
+[自己封装的各种Base类](https://github.com/wusiyuan618/wusyLibrary/tree/master/wusylibrary/src/main/java/com/wusy/wusylibrary/base)
 
 [更多封装工具类](https://github.com/wusiyuan618/wusyLibrary/tree/master/wusylibrary/src/main/java/com/wusy/wusylibrary/util)
 

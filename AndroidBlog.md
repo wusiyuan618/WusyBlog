@@ -25,6 +25,8 @@
 # 自定义View
 [Android自定义View--数字软键盘](https://www.jianshu.com/p/588b5bd3f665)  
 
+[Android 滚轮控件WheelView](https://www.jianshu.com/p/24d416da3815)  
+
 [手撸一个物体下落的控件，实现雪花飘落效果](https://www.jianshu.com/p/1c2964957197)  
 
 [自定义广告图片轮播View——CarouselView](https://www.jianshu.com/p/6430319ec9d5)  

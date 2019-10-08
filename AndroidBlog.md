@@ -60,6 +60,8 @@
 
 [SystemTTS系统自带的语音转文字](https://www.jianshu.com/p/79f8d043810e)  
 
+[Android CameraUtil 快速集成实现系统相机拍照](https://www.jianshu.com/p/737d51e2ece8)  
+
 [自己封装的各种Base类](https://github.com/wusiyuan618/wusyLibrary/tree/master/wusylibrary/src/main/java/com/wusy/wusylibrary/base)
 
 [更多封装工具类](https://github.com/wusiyuan618/wusyLibrary/tree/master/wusylibrary/src/main/java/com/wusy/wusylibrary/util)

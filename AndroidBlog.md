@@ -60,6 +60,9 @@
 
 [自己封装的各种Base类](https://github.com/wusiyuan618/wusyLibrary/tree/master/wusylibrary/src/main/java/com/wusy/wusylibrary/base)
 
+[SystemTTS系统自带的语音转文字]
+（https://www.jianshu.com/p/79f8d043810e）
+
 [更多封装工具类](https://github.com/wusiyuan618/wusyLibrary/tree/master/wusylibrary/src/main/java/com/wusy/wusylibrary/util)
 
 

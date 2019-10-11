@@ -10,6 +10,6 @@
 
 [Android wusyLibrary](https://github.com/wusiyuan618/wusyLibrary)
 
-新开通的微信公众号，长期维护，分享原创以及收录的各种Android开发干货，希望各位大大扫码关注，支持一下，谢谢
+新开通的微信公众号，现在还不完善，搭建中，长期维护，分享原创以及收录的各种Android开发干货，希望各位大大扫码关注，支持一下，谢谢
 
 ![wusyBlog微信公众号二维码.jpg](https://upload-images.jianshu.io/upload_images/11335240-e099d48e0c756d20.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)

@@ -1,6 +1,8 @@
 > 这是一个关于Android工作与学习中的知识和BUG总结,以及自己的一些心得文章
 
 # 基础
+[Android 利用泛型优雅的解析数据](https://www.jianshu.com/p/4cb77e97eea6)  
+
 [Android知识点基础篇（一）](https://www.jianshu.com/p/d70205b654e1)  
 
 [Android知识点基础篇（二）](https://www.jianshu.com/p/5818b9caf118)  
@@ -24,6 +26,8 @@
 [Android 利用泛型优雅的解析数据](https://www.jianshu.com/p/4cb77e97eea6) 
 
 # 自定义View
+[Android 滚轮控件WheelView](https://www.jianshu.com/p/24d416da3815)  
+
 [Android自定义View--数字软键盘](https://www.jianshu.com/p/588b5bd3f665)  
 
 [Android 滚轮控件WheelView](https://www.jianshu.com/p/24d416da3815)  
@@ -50,11 +54,17 @@
 
 [自定义View学习之路（二）————Paint与Canvas](https://www.jianshu.com/p/f11180fa28b8)
 
-[自定义View学习之路（一）————自定义xml字段](https://www.jianshu.com/p/34626a839c38)
+[自定义View学习之路（一）————自定义xml字段](https://www.jianshu.com/p/34626a839c38)  
+
+[Android 圆形ImageView](https://www.jianshu.com/p/bf3b200a5538)  
 
 [更多自定义的View](https://github.com/wusiyuan618/wusyLibrary/tree/master/wusylibrary/src/main/java/com/wusy/wusylibrary/view)
 
 # 封装工具类
+[Android CameraUtil 快速集成实现系统相机拍照](https://www.jianshu.com/p/737d51e2ece8)  
+
+[Android 利用系统的TextToSpeech类实现语音播报](https://www.jianshu.com/p/79f8d043810e)  
+
 [助你快速搭建一个健壮可控的WebApp](https://www.jianshu.com/p/0d3c1beea0b2)  
 
 [popupWindow的封装与学习](https://www.jianshu.com/p/4e01b8689ec4)  
@@ -119,6 +129,8 @@
 [Kotlin系列之let、with、run、apply、also函数的使用（转载）](https://blog.csdn.net/u013064109/article/details/78786646)  
 
 # 功能实现
+[Andoird开发之SerialPort串口开发](https://www.jianshu.com/p/3bdb4becafe5)  
+
 [助你快速搭建一个健壮可控的WebApp](https://www.jianshu.com/p/0d3c1beea0b2)  
 
 [Android 简单计时器实现](https://www.jianshu.com/p/175dabacb06e)  

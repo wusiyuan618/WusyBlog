@@ -129,6 +129,8 @@
 [Kotlin系列之let、with、run、apply、also函数的使用（转载）](https://blog.csdn.net/u013064109/article/details/78786646)  
 
 # 功能实现
+[Andorid 对接BLE蓝牙设备（连接篇）](https://www.jianshu.com/p/82a771e7a765)  
+
 [Andoird开发之SerialPort串口开发](https://www.jianshu.com/p/3bdb4becafe5)  
 
 [助你快速搭建一个健壮可控的WebApp](https://www.jianshu.com/p/0d3c1beea0b2)  

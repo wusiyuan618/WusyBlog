@@ -90,6 +90,8 @@
 [ADB远程调试(转载)](https://www.jianshu.com/p/9fe9ed396582)  
 
 # BUG采坑
+[解决Activity重新刷新后Fragment的show、hide失效问题](https://www.jianshu.com/p/0915d576b591)  
+
 [Android OkHttp3处理重定向](https://www.jianshu.com/p/8e8e30dc84e5)  
 
 [解决AndroidStudio无法连接夜神模拟器的问题](https://www.jianshu.com/p/351e7c2eb5d9)  
@@ -129,6 +131,8 @@
 [Kotlin系列之let、with、run、apply、also函数的使用（转载）](https://blog.csdn.net/u013064109/article/details/78786646)  
 
 # 功能实现
+[Android利用自带的位置服务，获取当前位置信息](https://www.jianshu.com/p/a657d97c3899)  
+
 [Andorid 对接BLE蓝牙设备（连接篇）](https://www.jianshu.com/p/82a771e7a765)  
 
 [Andoird开发之SerialPort串口开发](https://www.jianshu.com/p/3bdb4becafe5)  
